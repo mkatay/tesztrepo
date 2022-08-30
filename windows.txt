@@ -1,0 +1,3 @@
+
+ Viszont ha bekéri böngészőben, akkor eltárolja a vezérlőpultban...
+ Akkor kell, hogy figyelje az útvonalat, de szerintem akkor meg bárki feltölthet oda.
