@@ -1,3 +1,14 @@
 
  Viszont ha bekéri böngészőben, akkor eltárolja a vezérlőpultban...
  Akkor kell, hogy figyelje az útvonalat, de szerintem akkor meg bárki feltölthet oda.
+ 
+ Útvonalhoz: git config credential.useHttpPath true
+
+---
+ 
+ Viszont közben rájöttem: a K2-ben NINCS credential helper! Azért nem ugrik fel ablak!
+ Ez elérhető a "C:\Program Files\Git\etc\gitconfig" fájl szerkesztésével:
+ [credential]
+	helper = manager-core // HELYETT üresen kell hagyni: helper = 
+ Ekkor NEM ugrik fel ablak (hanem parancssorban kéri a tokent),
+ és NEM tárolja el a Windows hitelesítés-kezelőjében!
