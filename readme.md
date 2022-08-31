@@ -1,5 +1,10 @@
 # Új repo létrehozása
 
+-C:\Program Files\Git\etc\gitconfig" fájl szerkesztésével:
+ [credential]
+	helper = manager-core // HELYETT üresen kell hagyni: helper =
+ Ekkor NEM ugrik fel a hitelesítő ablak (hanem parancssorban be fogja kéri a tokent),
+ és NEM tárolja el a Windows hitelesítés-kezelőjében!
 - a gihub oldalon létrehozni az új repót
 - a saját gépre klónozni az üres repot: git clone <url>
 - a config fájlba belejavítani (az url-be beszúrni a token@ szót a github.com elé)
