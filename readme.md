@@ -3,7 +3,7 @@
 private class Teszt {
     private int a;
     public Teszt(){
-        a=0;
+        a=10;
     }
 }
 
