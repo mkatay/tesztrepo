@@ -1,0 +1,142 @@
+[33mcommit db8e5c5f6724883d8964bc197c1815e5879f9d15[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 55cd67b 66d06f2
+Author: kam <kam>
+Date:   Thu Sep 1 09:25:43 2022 +0200
+
+    teszt5
+
+[33mcommit 55cd67b7afbab8ae794d996680c57ea2367ced73[m
+Author: kam <kam>
+Date:   Thu Sep 1 09:23:22 2022 +0200
+
+    teszt4
+
+[33mcommit 66d06f20a7189a98dc87b8639e33cec293442c14[m
+Merge: 05d121d b4ac8d4
+Author: Barsony <barsony@kkando.hu>
+Date:   Thu Sep 1 09:18:49 2022 +0200
+
+    Merge branch 'master' of https://github.com/mkatay/tesztrepo into master
+
+[33mcommit 05d121d91bf0cefcf1ab8c8a9ecad42a8f52ff49[m
+Author: Barsony <barsony@kkando.hu>
+Date:   Thu Sep 1 09:18:13 2022 +0200
+
+    a=10
+
+[33mcommit b4ac8d4e869a2a0d9228d61eaf54a57224580441[m
+Merge: d1c2254 526c2ec
+Author: kam <kam>
+Date:   Thu Sep 1 09:07:32 2022 +0200
+
+    Merge branch 'master' of https://github.com/mkatay/tesztrepo
+
+[33mcommit 526c2ec586de0cf8d8b62e4c8089981390189e12[m
+Author: Barsony <barsony@kkando.hu>
+Date:   Thu Sep 1 09:04:48 2022 +0200
+
+    Class
+
+[33mcommit d1c225477d58a1e2026d677bf8753d978eed13d7[m
+Merge: 222fd80 a681f3c
+Author: kam <kam>
+Date:   Thu Sep 1 08:53:17 2022 +0200
+
+    Merge branch 'master' of https://github.com/mkatay/tesztrepo
+
+[33mcommit 222fd80da17f1c993e97e0a95ab40f113cc2d09d[m
+Author: kam <kam>
+Date:   Thu Sep 1 08:52:50 2022 +0200
+
+    teszt3
+
+[33mcommit a681f3c57e31f7c912ff80b7922ff6da15b32e6e[m
+Merge: d4911fa 964d559
+Author: Barsony <barsony@kkando.hu>
+Date:   Thu Sep 1 08:50:41 2022 +0200
+
+    Enyem
+
+[33mcommit d4911fa3e6f83bee4b93b917eb492705724fd22b[m
+Author: Barsony <barsony@kkando.hu>
+Date:   Thu Sep 1 08:37:14 2022 +0200
+
+    Harom!
+
+[33mcommit 964d559e3885f0a37b246eb402ee9e904c3a0af3[m
+Author: kam <kam>
+Date:   Thu Sep 1 08:36:30 2022 +0200
+
+    konfliktus
+
+[33mcommit 6adc2ef96c2e673ca02d712d9864dee609315f83[m
+Author: kam <kam>
+Date:   Thu Sep 1 08:27:37 2022 +0200
+
+    teszt
+
+[33mcommit e7509b896cacdd342e553cbcf3dd3a8de6981bce[m
+Author: kam <kam>
+Date:   Thu Sep 1 08:25:55 2022 +0200
+
+    2.megoldás
+
+[33mcommit 4041c89a5faad6a4ee6f9d4b26e64b7cc9177af7[m
+Author: kam <kam>
+Date:   Thu Sep 1 08:21:11 2022 +0200
+
+    szerkesztés2
+
+[33mcommit 92e9b6dbd72e12c068c51b8f45ce396771b19a5a[m
+Author: kam <kam>
+Date:   Thu Sep 1 08:06:47 2022 +0200
+
+    system config
+
+[33mcommit 31e4357922096fedc60bfe10ba5ed83c86b0e7ea[m
+Author: KMagdi <46417302+kmagdi@users.noreply.github.com>
+Date:   Wed Aug 31 16:42:31 2022 +0200
+
+    teszt1
+
+[33mcommit 91afb50f8a97aaa308fe61eaa3e555d004dba296[m
+Author: KMagdi <46417302+kmagdi@users.noreply.github.com>
+Date:   Wed Aug 31 16:39:15 2022 +0200
+
+    további kiegészítések
+
+[33mcommit 5765415fad2bb8096b0cb2c16c8bf74d81e44db5[m
+Author: KMagdi <46417302+kmagdi@users.noreply.github.com>
+Date:   Wed Aug 31 16:30:59 2022 +0200
+
+    kiegészítés
+
+[33mcommit 58b0bf3147d785058cbe7c768ae7da9cfacd889a[m
+Author: KMagdi <46417302+kmagdi@users.noreply.github.com>
+Date:   Wed Aug 31 16:22:57 2022 +0200
+
+    kiegészítés:helper
+
+[33mcommit 4fdd8050017aac1bdd7bb24b850194a4c41548e3[m
+Author: Barsony <barsony@kkando.hu>
+Date:   Tue Aug 30 18:20:26 2022 +0200
+
+    Rajottem
+
+[33mcommit ebcc4506299da3e6b9e72b068b0a9c771b1505f5[m
+Author: Barsony <barsony@kkando.hu>
+Date:   Tue Aug 30 17:50:27 2022 +0200
+
+    Windows
+
+[33mcommit 685909ec6230a11f1814d70029ab5e773ad42dd2[m
+Author: KMagdi <46417302+kmagdi@users.noreply.github.com>
+Date:   Tue Aug 30 17:42:00 2022 +0200
+
+    kiegészítés
+
+[33mcommit df27dc2475d95fa8b876923db27946d7b62d9043[m
+Author: KMagdi <46417302+kmagdi@users.noreply.github.com>
+Date:   Tue Aug 30 17:33:57 2022 +0200
+
+    first commit
