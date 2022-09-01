@@ -1,3 +1,12 @@
+# Új osztály létrehozás
+
+private class Teszt {
+    private int a;
+    public Teszt(){
+        a=0;
+    }
+}
+
 # Új repo létrehozás
 
 - a Github fiókban létre kell hozni egy Personal Access Token-t (PAT : Settings>Developer Settings)
