@@ -10,6 +10,12 @@ Majd a helper attribútum értékét üresen kell hagyni
 
 Ezek után NEM ugrik fel a hitelesítő ablak (hanem parancssorban be fogja kéri a tokent), NEM tárolódik el a Windows hitelesítés-kezelőjében (Credential Manager-ben)!
 
+Egy másik megoldás:
+
+git config --system --unset credential.helper
+
+(Rendszergazdai jog szükségeltetik!)
+
 - a github oldalon egy új üres repó létrehozása
 - a saját gépre klónozni az üres repot: git clone <url>
 - a config fájlba belejavítani (az url-be beszúrni a token@ szót a github.com elé)
