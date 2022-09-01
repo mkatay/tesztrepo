@@ -14,6 +14,8 @@ Egy másik megoldás:
 
 git config --system --unset credential.helper
 
+
+
 (Rendszergazdai jog szükségeltetik!)
 
 - a github oldalon egy új üres repó létrehozása
