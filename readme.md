@@ -21,6 +21,7 @@ Ezek után NEM ugrik fel a hitelesítő ablak (hanem parancssorban be fogja kér
 
 Egy másik megoldás:
 
+
 git config --system --unset credential.helper
 
 (Rendszergazdai jog szükségeltetik!!!)
