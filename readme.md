@@ -14,9 +14,7 @@ Egy másik megoldás:
 
 git config --system --unset credential.helper
 
-
-
-(Rendszergazdai jog szükségeltetik!)
+(Rendszergazdai jog szükségeltetik!!!)
 
 - a github oldalon egy új üres repó létrehozása
 - a saját gépre klónozni az üres repot: git clone <url>
